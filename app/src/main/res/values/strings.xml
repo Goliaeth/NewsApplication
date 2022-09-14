@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">News Application</string>
+    <string name="str_search_button">search</string>
+    <string name="str_search_your_topic">search your topic</string>
+    <string name="str_load_more">load more</string>
+    <string name="str_image_arrow_desc">click to navigate to news page</string>
+    <string name="str_tools_web_title">news title</string>
 </resources>
